@@ -1,2 +1,3 @@
 # Decimal-to-Binary-Converter
-This program will help you to convert decimal number to binary number form with assembly code (tasm)
+The “Decimal to Binary Conversion” application is an application that helps users to convert decimal numbers to binary numbers. This application is made using assembly language (TASM) and has the main feature of converting decimal numbers to binary numbers. The “Decimal to Binary Convert” application is very useful for users who often work with binary numbers, such as in the field of electrical or computer engineering. With this application, users can easily convert decimal numbers to binary numbers without the need to calculate manually.
+Youtube Presentation Link : https://www.youtube.com/watch?v=XpXo-qFeJFk
